@@ -11,7 +11,7 @@ Demo
 ### What To Do?
 * Please enter your email to create a user / find existing one in Api
 * Load user Todos from server
-* Add Todo with optimistic responce(
+* Add Todo with **optimistic responce**(
     after adding title and pressing 'Enter' 
       && before ok responce from server, you already can see your new Todo with loader
     )
