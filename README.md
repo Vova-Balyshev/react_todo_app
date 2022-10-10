@@ -1,12 +1,16 @@
 # React Todo App With Api
 
-Demo
+[Demo](https://vova-balyshev.github.io/react_todo_app/)
 
 ## Techno stack:
   - HTML/CSS/SCSS
   - Typescript
   - React/React hooks
   - Api
+  
+ ## Environment requirements:
+  - Node v14
+  - npm v6
 
 ### What To Do?
 * Please enter your email to create a user / find existing one in Api
@@ -25,3 +29,5 @@ Demo
   - if the new title is empty the Todo will be deleted
 * Filtering Todos by comleted status buttons: All / Active / Completed
 * Clear all completed Todos
+
+###### Let`s do your Todo =)
