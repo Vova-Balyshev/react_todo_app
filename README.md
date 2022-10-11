@@ -30,4 +30,4 @@
 * Filtering Todos by comleted status buttons: All / Active / Completed
 * Clear all completed Todos
 
-###### Let`s do your Todo =)
+###### Just do your Todo =)
